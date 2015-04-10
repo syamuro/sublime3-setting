@@ -4,12 +4,16 @@
 	],
 	"installed_packages":
 	[
+		"Abacus",
+		"AutoFileName",
 		"BracketHighlighter",
 		"Japanize",
 		"Markdown Extended",
 		"Monokai Extended",
 		"OmniMarkupPreviewer",
 		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
 		"Table Editor"
 	]
 }
