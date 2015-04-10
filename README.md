@@ -1,8 +1,8 @@
 # sublime3-setting
 
-1. mac から pushしてみた test
-2. ディレクトリ間違えて修正
-3. packageを追加
-4. 別のmacでcloneして、push
-5. 1macからpush
+使い方  
+1. git clone してくる
+2. Packageフォルダを消す
+3. git clone したディレクトリからPackageフォルダを移してくる
+
 =======
