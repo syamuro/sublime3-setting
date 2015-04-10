@@ -1,6 +1,6 @@
 # sublime3-setting
-<<<<<<< HEAD
 
-mac から pushしてみた test
+1. mac から pushしてみた test
+2. ディレクトリ間違えて修正
+
 =======
->>>>>>> 1d9f78fb2ebfdfa515916baa059d1ce1a207b78e
